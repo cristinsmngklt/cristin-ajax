@@ -1,0 +1,43 @@
+<table>
+	<tr>
+		<td>Nama</td>
+		<td>NIM</td>
+		<td>Kelas</td>
+		<td>Prodi</td>
+	</tr>
+
+	<tr>
+		<td>Cristin</td>
+		<td>1755301019</td>
+		<td>1 TI C</td>
+		<td>Teknik Informatika</td>
+	</tr>
+
+	<tr>
+		<td>Melisa Adhari</td>
+		<td>1755301039</td>
+		<td>1 TI C</td>
+		<td>Teknik Informatika</td>
+	</tr>
+
+	<tr>
+		<td>Petrus Rynanson Sianipar</td>
+		<td>1755301096</td>
+		<td>1 TI C</td>
+		<td>Teknik Informatika</td>
+	</tr>
+
+	<tr>
+		<td>Arif Nur Rahman</td>
+		<td>1755301001</td>
+		<td>1 TI C</td>
+		<td>Teknik Informatika</td>
+	</tr>
+
+	<tr>
+		<td>Yuli Sagita</td>
+		<td>1755301098</td>
+		<td>1 TI C</td>
+		<td>Teknik Informatika</td>
+	</tr>
+</table>
